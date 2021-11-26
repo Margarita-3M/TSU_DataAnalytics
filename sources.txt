@@ -1,0 +1,43 @@
+Список источников:
+
+Сноска 1: Качество IT-образования в России и за рубежом: Результаты исследования, опубликованного в журнале Национальной академии наук США (PNAS  USA) — https://education.forbes.ru/authors/it-education-pnas
+
+Сноска 2: Запрос соответствует следующему разделу сайта: https://hh.ru/catalog/informacionnye-tehnologii-internet-telekom (см.: HeadHunter, один из самых крупных сайтов по поиску работы и сотрудников в мире (по данным рейтинга Similarweb) — hh.ru)
+
+Хабр Карьера: карьерный сервис для ИТ-специалистов — career.habr.com
+
+Сайты онлайн-магистратур российских университетов: http://omscmipt.ru/ , https://comb-mipt.ru/ , https://mipt.ru/education/departments/fpmi/master/modern-state-of-artificial-intelligence, https://www.hse.ru/en/ma/mds/ , https://www.hse.ru/en/ma/dataanalytics/ , https://data.misis.ru/ , https://highereducation.skillbox.ru/master/game_design , https://netology.ru/programs/digital-product-management , http://digec.online/ , https://smartregion-urfu.ru/ , https://netology.ru/programs/media-management 
+
+17-е ежегодное исследование РУССОФТ (2020). Российская софтверная отрасль — https://russoft.org/analytics/rossiyskaya_softvernaya_otrasl_2020/
+
+16-й отчет РУССОФТ (2019). Исследование индустрии разработки программного обеспечения в России — https://russoft.org/analytics/shestnadtsatoe-ezhegodnoe-issledovanie-rossijskoj-industrii-razrabotki-programmnogo-obespecheniya/
+
+15-й отчет РУССОФТ (2018). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/15_annual_survey/
+
+14-й отчет РУССОФТ (2017). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/chetyrnadtsatoe-ezhegodnoe-issledovan-2/
+
+13-й отчет РУССОФТ (2016). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/trinadtsatoe-ezhegodnoe-issledovanie/
+
+12-й отчет РУССОФТ (2015). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/dvenadtsatoe-ezhegodnoe-issledovanie/
+
+11-й отчет РУССОФТ (2014). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/odinadtsatoe-ezhegodnoe-issledovanie/
+
+10-й отчет РУССОФТ (2013). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/desyatoe-ezhegodnoe-issledovanie-ross/
+
+9-й отчет РУССОФТ (2012). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/devyatoe-ezhegodnoe-issledovanie-ross/
+
+8-й отчет РУССОФТ (2011). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/vosmoe-ezhegodnoe-issledovanie-ross/
+
+7-й отчет РУССОФТ (2010). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/sedmoe-ezhegodnoe-issledovanie-ross/
+
+6-й отчет РУССОФТ (2009). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/shestoe-ezhegodnoe-issledovanie-rossi/
+
+5-й отчет РУССОФТ (2008). Экспорт российской индустрии разработки программного обеспечения — https://russoft.org/analytics/pyatoe-ezhegodnoe-issledovanie-rossij/
+
+4-й отчет РУССОФТ (2006). Исследование российской индустрии экспортной разработки программный решений, услуг и продуктов — https://russoft.org/analytics/4-yj-otchet-russoft-2006-issledovanie-rossijskoj-industrii-eksportnoj-razrabotki-programmnyj-reshenij-uslug-i-produktov/
+
+Рейтинг языков программирования 2021: доля Python падает, а TypeScript обошел С++, в лидерах JavaScript, Java, C# — https://habr.com/ru/post/543346/
+
+Мониторинг выпускников Яндекс.Практикума (онлайн-опрос среди выпускников образовательных курсов Яндекс.Практикума, завершивших обучение в период с 1 января по 30 июня 2020 г.)
+
+Образование для образованных 2021. Автор курса и книги: А.И. Левенчук, науч.рук. Школы системного менеджмента, директор по исследованиям Русского отделения международного совета по системной инженерии (INCOSE) — https://system-school.ru/uptodate
