@@ -40,4 +40,4 @@ __Подробный отчет__
 [Доступен по ссылке](https://github.com/Margarita-3M/TSU_DataAnalytics/tree/master/presentation)
 
 __Дашборд__
-[Доступен по ссылке](https://datalens.yandex.ru/wi9bitum8r3ap-ocenka-rynka-truda-it-specialistov-v-rossii-vypolnili)
+[Доступен по ссылке](https://datalens.yandex/wi9bitum8r3ap)
